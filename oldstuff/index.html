@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyperchalk</title>
+    <link rel="shortcut icon" href="icon/icon-32.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        .sr-only {
+            width: 0;
+            height: 0;
+            opacity: 0;
+        }
+        body {
+            --bg: #228BE6;
+            --fg: white;
+
+            background: var(--bg);
+            color: var(--fg);
+            padding: 0;
+            margin: 0;
+
+            font-family: 'Helvetica Neue', Helvetica, sans-serif;
+        }
+        body.high-contrast {
+            --bg: darkblue;
+        }
+        header {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        /* header p {
+            text-shadow: 0 0 6px #000A;
+        } */
+        .left, .right {
+            width: 50%;
+        }
+        .left {
+            display: flex;
+            height: 100vh;
+            padding: 6rem;
+            justify-content: center;
+            align-items: center;
+        }
+        .right {
+            padding: 6rem 10rem 6rem 4rem;
+        }
+        nav {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav></nav>
+        <div class="left">
+            <img src="chalk.svg" alt="Hyperchalk Logo">
+        </div>
+        <div class="right">
+            <h1><img src="display-heading.svg" alt="Hyperchalk" width="100%"></h1>
+
+            <p>
+            Hyperchalk is an online whiteboard that helps you with your learning analytics data
+            collection.
+
+            <p>
+
+        </div>
+    </header>
+    <main>
+    </main>
+    <footer></footer>
+</body>
+</html>

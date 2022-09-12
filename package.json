@@ -1,0 +1,19 @@
+{
+  "name": "hyperchalk.github.io",
+  "version": "0.0.1",
+  "description": "Website for Hyperchalk",
+  "main": "index.js",
+  "authors": {
+    "name": "Lukas Menzel",
+    "email": "menzel@studiumdigitale.uni-frankfurt.de"
+  },
+  "repository": "https://github.com/Hyperchalk/hyperchalk.github.io/hyperchalk.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
