@@ -17,8 +17,12 @@ module.exports = {
    */
   head: [
     ["meta", { name: "theme-color", content: "#228be6" }],
+    ["link", { rel: "icon", href: "/icon/icon-32.png" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
-    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
+    ],
   ],
 
   /**
