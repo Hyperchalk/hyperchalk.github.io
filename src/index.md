@@ -14,7 +14,7 @@ features:
     details: Self-hosted app where data can be easily anonymized.
 ---
 
-<div style="text-align: center; margin-top: 4rem;">
+<div style="text-align: center; margin: 4rem auto;">
   <iframe
     width="560" height="315" src="https://www.youtube-nocookie.com/embed/m2sgB65HIrc"
     title="YouTube video player" frameborder="0"
