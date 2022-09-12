@@ -23,6 +23,15 @@ features:
   ></iframe>
 </div>
 
+In e-learning, collaborative online whiteboards have become a popular choice for implementing
+collaborative learning. However, existing solutions fail to deliver data in a way that allows
+for the application of learning analytics in this field. While the market offers several solutions,
+most of them cannot be integrated with existing learning management systems and do not provide data
+that can be used for learning analytics. To overcome this, we implement a digital collaborative
+whiteboard based on the open source Excalidraw and a custom back-end. The whiteboard can be
+self-hosted, it collects rich log data appropriate for learning analytics purposes and it integrates
+with learning management systems – such as Moodle – using the LTI 1.3 Advantage standard.
+
 ::: slot footer
 Made by [EduTec](https://edutec.science) with ❤️
 :::
