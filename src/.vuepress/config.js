@@ -48,7 +48,7 @@ module.exports = {
       //   link: "/config/",
       // },
       {
-        text: "Repo",
+        text: "GitHub Repo",
         link: "https://github.com/Hyperchalk/Hyperchalk",
       },
     ],
