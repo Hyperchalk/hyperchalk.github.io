@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: "Your Online Whiteboard for Education 👩🏽‍🏫",
+  description: "An Online Whiteboard for Educational Contexts 👩🏽‍🏫",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
