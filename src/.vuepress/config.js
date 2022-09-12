@@ -25,6 +25,8 @@ module.exports = {
     ],
   ],
 
+  dest: "docs",
+
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
@@ -41,13 +43,13 @@ module.exports = {
         text: "Guide",
         link: "/guide/",
       },
+      // {
+      //   text: "Config",
+      //   link: "/config/",
+      // },
       {
-        text: "Config",
-        link: "/config/",
-      },
-      {
-        text: "VuePress",
-        link: "https://v1.vuepress.vuejs.org",
+        text: "Repo",
+        link: "https://github.com/Hyperchalk/Hyperchalk",
       },
     ],
     sidebar: {
@@ -55,7 +57,7 @@ module.exports = {
         {
           title: "Guide",
           collapsable: false,
-          children: ["", "using-vue"],
+          children: ["", ""],
         },
       ],
     },
