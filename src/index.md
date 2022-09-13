@@ -14,6 +14,8 @@ features:
     details: Self-hosted app where data can be easily anonymized.
 ---
 
+**[Get the Paper](https://doi.org/10.1007/978-3-031-16290-9_37)**
+
 <div style="text-align: center; margin: 4rem auto;">
   <iframe
     src="https://www.youtube-nocookie.com/embed/m2sgB65HIrc"
@@ -31,6 +33,14 @@ that can be used for learning analytics. To overcome this, we implement a digita
 whiteboard based on the open source Excalidraw and a custom back-end. The whiteboard can be
 self-hosted, it collects rich log data appropriate for learning analytics purposes and it integrates
 with learning management systems – such as Moodle – using the LTI 1.3 Advantage standard.
+
+If you use Hyperchalk in your scientific work, please cite this paper ([see biblatex citation][bib]):
+
+> Lukas Menzel, Sebastian Gombert, Daniele Di Mitri and Hendrik Drachsler. "Superpowers in the
+> Classroom: Hyperchalk is an Online Whiteboard for Learning Analytics Data Collection". In:
+> Educating for a new future: Making sense of technology-enhanced learning adoption. Sep 2022.
+
+[bib]: https://github.com/Hyperchalk/Hyperchalk/blob/main/citation.bib
 
 ::: slot footer
 Made by [EduTec](https://edutec.science) with ❤️
