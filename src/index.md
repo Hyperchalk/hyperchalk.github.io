@@ -16,10 +16,10 @@ features:
 
 <div style="text-align: center; margin: 4rem auto;">
   <iframe
-    width="560" height="315" src="https://www.youtube-nocookie.com/embed/m2sgB65HIrc"
-    title="YouTube video player" frameborder="0"
+    src="https://www.youtube-nocookie.com/embed/m2sgB65HIrc"
+    title="YouTube video player" frameborder="0" allowfullscreen
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen style="display: inline-block;"
+    style="display: inline-block; max-width: 100%; width: 560px; aspect-ratio: 16 / 9;"
   ></iframe>
 </div>
 
