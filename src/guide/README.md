@@ -27,14 +27,17 @@ docker pull edutec/hyperchalk
 
 To make the installation easier for you, we provide demo configuration files and a
 docker-compose file in our [github repo][repo]. They are called [`docker-compose.example.yml`][compose]
-and [`local_settings.example.py`][config] respectively. Copy those into a new directory,
-edit them to your liking (especially by paying attention to the `TODO` comments) and run
+and [`local_settings.example.py`][config] respectively. The example configuration provides
+information and further links to all of the settings it features as important. The compose
+file features an example configuration for Hyperchalk as well as the data bases. If you
+want to use another database, have a look at the list of [supported databases](https://hyperchalk.github.io/guide/#supported-data-storage-options). Copy those into a new directory, edit them to your liking (especially
+by paying attention to the `TODO` comments) and run
 
 ```sh
 docker-compose up -d
 ```
 
-It is recommended that you either supply you own database or that you configure one via the docker
+It is recommended that you either supply your own database or that you configure one via the docker
 compose file. The example configuration shows how to configure the app using sqlite. This is not
 recommended though if you use more than one worker / process. The same goes for the channel layers
 backend. Have a look at the example configuration for further explanation.
