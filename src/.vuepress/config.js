@@ -48,6 +48,10 @@ module.exports = {
       //   link: "/config/",
       // },
       {
+        text: "Demo Paper",
+        link: "https://doi.org/10.1007/978-3-031-16290-9_37",
+      },
+      {
         text: "GitHub Repo",
         link: "https://github.com/Hyperchalk/Hyperchalk",
       },
