@@ -34,11 +34,13 @@ whiteboard based on the open source Excalidraw and a custom back-end. The whiteb
 self-hosted, it collects rich log data appropriate for learning analytics purposes and it integrates
 with learning management systems – such as Moodle – using the LTI 1.3 Advantage standard.
 
-If you use Hyperchalk in your scientific work, please cite this paper ([see biblatex citation][bib]):
+If you use Hyperchalk in your scientific work, please cite this paper ([cite as bib][bib]):
 
 > Lukas Menzel, Sebastian Gombert, Daniele Di Mitri and Hendrik Drachsler. "Superpowers in the
 > Classroom: Hyperchalk is an Online Whiteboard for Learning Analytics Data Collection". In:
 > Educating for a new future: Making sense of technology-enhanced learning adoption. Sep 2022.
+
+**[Get the Paper](https://doi.org/10.1007/978-3-031-16290-9_37)**
 
 [bib]: https://github.com/Hyperchalk/Hyperchalk/blob/main/citation.bib
 
