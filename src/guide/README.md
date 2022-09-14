@@ -19,10 +19,10 @@ If you use Hyperchalk in your scientific work, please cite this paper ([see bibl
 ## Installation and Setup
 
 It is recommended to use the docker container for deploying this application. The container
-is available as `edutec/hyperchalk`.
+is available as `ghcr.io/hyperchalk/hyperchalk`.
 
 ```sh
-docker pull edutec/hyperchalk
+docker pull ghcr.io/hyperchalk/hyperchalk
 ```
 
 To make the installation easier for you, we provide demo configuration files and a
