@@ -34,6 +34,9 @@ whiteboard based on the open source Excalidraw and a custom back-end. The whiteb
 self-hosted, it collects rich log data appropriate for learning analytics purposes and it integrates
 with learning management systems – such as Moodle – using the LTI 1.3 Advantage standard.
 
+🏆 Hyperchalk is award-winning software: We won the best demo award on the European Conference
+of Technology Enhanced Learning 2022.
+
 If you use Hyperchalk in your scientific work, please cite this paper ([cite as bib][bib]):
 
 > Lukas Menzel, Sebastian Gombert, Daniele Di Mitri and Hendrik Drachsler. "Superpowers in the
