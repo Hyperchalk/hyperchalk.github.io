@@ -6,8 +6,8 @@ tagline: An Online Whiteboard for Educational Contexts 👩🏽‍🏫
 actionText: Quick Start →
 actionLink: /guide/
 features:
-  - title: 🧩 LTI Support
-    details: Can be integrated into popular learning management systems.
+  - title: 🧩 Integrates with your LMS
+    details: Can be integrated into popular learning management systems via IMS Lerning Tools Interoperability.
   - title: 📦 Collects Usage Data
     details: Collects usage data for your Learning Analytics research.
   - title: 🙈 Privacy Preserving
@@ -30,9 +30,10 @@ collaborative learning. However, existing solutions fail to deliver data in a wa
 for the application of learning analytics in this field. While the market offers several solutions,
 most of them cannot be integrated with existing learning management systems and do not provide data
 that can be used for learning analytics. To overcome this, we implement a digital collaborative
-whiteboard based on the open source Excalidraw and a custom back-end. The whiteboard can be
-self-hosted, it collects rich log data appropriate for learning analytics purposes and it integrates
-with learning management systems – such as Moodle – using the LTI 1.3 Advantage standard.
+whiteboard based on the open source [Excalidraw](https://github.com/excalidraw/excalidraw) and a
+custom back-end. The whiteboard can be self-hosted, it collects rich log data appropriate for
+learning analytics purposes and it integrates with learning management systems – such as Moodle –
+using the LTI 1.3 Advantage standard.
 
 🏆 Hyperchalk is award-winning software: We won the best demo award on the European Conference
 of Technology Enhanced Learning 2022.
