@@ -49,5 +49,5 @@ If you use Hyperchalk in your scientific work, please cite this paper ([cite as 
 [bib]: https://github.com/Hyperchalk/Hyperchalk/blob/main/citation.bib
 
 ::: slot footer
-Made by [EduTec](https://edutec.science) with ❤️
+Made by [EduTec](https://edutec.science) with ❤️ | [Imprint](https://edutec.science/imprint/)
 :::
